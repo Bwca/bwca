@@ -21,6 +21,7 @@ And a bunch of less popular ones.
 #### Chrome extensions
 * [Promoted posts blocker](https://github.com/Bwca/browser-extension__linkedin-antiprom) for removing promoted posts from LinkedinIn.
 * [Jira executor filters](https://github.com/Bwca/browser-extension__jira-executors-filter) for adding executor icons to jira board.
+* [Magic 8 Ball](https://chrome.google.com/webstore/detail/magic-8-ball/hkhipapgpdambeamafdciafnlgppedlg?hl=en) available in Chrome Store.
 
 #### Games? Kinda
 * [Rigged slot machine](https://github.com/Bwca/test__slot-machine), it was actually a test task, but I still play it sometimes, the thing is addictive. [Deployed here, check it out](https://bwca.github.io/test__slot-machine/) :D
