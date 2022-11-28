@@ -12,7 +12,7 @@ Coding is my hobby which became my work. So I need another hobby...
 * [iso-datestring-validator](https://www.npmjs.com/package/iso-datestring-validator) for validating string representation of dates;
 * [property-string-path](https://www.npmjs.com/package/property-string-path) for generating string representations of all property paths in an object of any depth.
 
-And a bunch of less popular ones.
+And a bunch of less popular ones, the full list is [here](https://www.npmjs.com/~bwca).
 
 #### Chrome extensions
 * [Promoted posts blocker](https://github.com/Bwca/browser-extension__linkedin-antiprom) for removing promoted posts from LinkedinIn.
