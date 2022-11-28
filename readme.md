@@ -15,11 +15,11 @@ Coding is my hobby which became my work. So I need another hobby...
 And a bunch of less popular ones, the full list is [here](https://www.npmjs.com/~bwca).
 
 #### Chrome extensions
-* [Promoted posts blocker](https://github.com/Bwca/browser-extension__linkedin-antiprom) for removing promoted posts from LinkedinIn.
-* [Jira executor filters](https://github.com/Bwca/browser-extension__jira-executors-filter) for adding executor icons to jira board.
+* [Promoted posts blocker](https://github.com/Bwca/browser-extension_linkedin-antiprom) for removing promoted posts from LinkedinIn.
+* [Jira executor filters](https://github.com/Bwca/browser-extension_jira-executors-filter) for adding executor icons to jira board.
 * [Magic 8 Ball](https://chrome.google.com/webstore/detail/magic-8-ball/hkhipapgpdambeamafdciafnlgppedlg?hl=en) available in Chrome Store.
 
 #### Games? Kinda
-* [Rigged slot machine](https://github.com/Bwca/test__slot-machine), it was actually a test task, but I still play it sometimes, the thing is addictive. [Deployed here, check it out](https://bwca.github.io/test__slot-machine/) :D
-* [Magic 8 ball](https://github.com/Bwca/app__magic-8-ball), it knows all the answers and now comes in 3d. Can be installed as an app, go ask your questions [here](https://bwca.github.io/app__magic-8-ball/) :)
+* [Rigged slot machine](https://github.com/Bwca/test_slot-machine), it was actually a test task, but I still play it sometimes, the thing is addictive. [Deployed here, check it out](https://bwca.github.io/test_slot-machine/) :D
+* [Magic 8 ball](https://github.com/Bwca/app_magic-8-ball), it knows all the answers and now comes in 3d. Can be installed as an app, go ask your questions [here](https://bwca.github.io/app_magic-8-ball/) :)
 
