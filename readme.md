@@ -20,6 +20,5 @@ And a bunch of less popular ones, the full list is [here](https://www.npmjs.com/
 * [Magic 8 Ball](https://chrome.google.com/webstore/detail/magic-8-ball/hkhipapgpdambeamafdciafnlgppedlg?hl=en) available in Chrome Store.
 
 #### Games? Kinda
-* [Rigged slot machine](https://github.com/Bwca/test_slot-machine), it was actually a test task, but I still play it sometimes, the thing is addictive. [Deployed here, check it out](https://bwca.github.io/test_slot-machine/) :D
 * [Magic 8 ball](https://github.com/Bwca/app_magic-8-ball), it knows all the answers and now comes in 3d. Can be installed as an app, go ask your questions [here](https://bwca.github.io/app_magic-8-ball/) :)
 
