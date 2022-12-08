@@ -4,6 +4,10 @@
 
 I am a frontend developer, who mostly uses typescript as you see from the stats below. Sometimes I write [articles](https://dev.to/bwca) to share my findings ^_^
 
+<a href="https://github.com/bwca/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bwca&theme=synthwave&count_private=true" />
+</a>
+
 Coding is my hobby which became my work. So I need another hobby...
 
 ### Well, what I maintain?
